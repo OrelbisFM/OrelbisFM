@@ -7,7 +7,7 @@
 
 - I’m currently learning **various types of languages**
 
-- I've contributed to [Baystation 12](https://github.com/Baystation12/Baystation12)
+- I've contributed to [Baystation 12](https://github.com/Baystation12/Baystation12) as **Chiquiii**
 
 - How to reach me **orelbisfm@gmail.com**
 
