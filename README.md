@@ -1,4 +1,4 @@
-<h1 align="center">Herllo! I'm Orelbis Fernandez</h1>
+<h1 align="center">Hello! I'm Orelbis Fernandez</h1>
 <h3 align="center">I'm a student looking to contribute to projects and improve my skill base.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiquiii" alt="chiquiii" /></a> </p>
