@@ -5,7 +5,7 @@
 
 - I’m currently learning **various types of languages**
 
-- I've contributed to [Baystation 12](https://github.com/Baystation12/Baystation12) as **[Orelbon](https://github.com/Orelbon)**
+- I've contributed to [Baystation 12](https://github.com/Baystation12/Baystation12/pulls?q=is%3Apr+author%3AOrelbon+) as **[Orelbon](https://github.com/Orelbon)**
 
 - How to reach me: **orelbisfm@gmail.com**
 
