@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Orelbis Fernandez</h1>
-<h3 align="center">I'm a student looking to contribute to projects and improve my skill base.</h3>
+<h3 align="center">I'm a recent graduate looking to contribute to projects and learn.</h3>
 
-- I’m currently working on **completing my degree**
+- I’m currently working on **completing certifications**
 
 - I’m currently learning **various types of languages**
 
